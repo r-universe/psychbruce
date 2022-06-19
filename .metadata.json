@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bruceR",
+    "oncran": true
+  },
+  {
+    "package": "ChineseNames",
+    "oncran": true
+  }
+]
