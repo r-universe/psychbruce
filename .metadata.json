@@ -6,5 +6,9 @@
   {
     "package": "ChineseNames",
     "oncran": true
+  },
+  {
+    "package": "PsychWordVec",
+    "oncran": true
   }
 ]
