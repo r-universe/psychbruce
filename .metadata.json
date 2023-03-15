@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "PsychWordVec",
+    "package": "ChineseNames",
     "oncran": true
   },
   {
-    "package": "ChineseNames",
+    "package": "PsychWordVec",
     "oncran": true
   }
 ]
