@@ -5,6 +5,9 @@
 [submodule "ChineseNames"]
 	path = ChineseNames
 	url = https://github.com/psychbruce/chinesenames
+[submodule "DPI"]
+	path = DPI
+	url = https://github.com/psychbruce/dpi
 [submodule "FMAT"]
 	path = FMAT
 	url = https://github.com/psychbruce/fmat
